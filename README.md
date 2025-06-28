@@ -10,4 +10,4 @@
 - [ ] Build prompt engineering toolkit
 
 ![Author: ReL007](https://img.shields.io/badge/author-ReL007-brightgreen)
-![Email：2020302121117@whu.edu.cn](https://img.shields.io/badge/email-your.email%40example.com-red)
+![Email](https://img.shields.io/badge/email-2020302121117@whu.edu.cnl%40example.com-red)
