@@ -4,10 +4,8 @@
 > Future deployments will include advanced Generative AI assets."*
 
 ## 🎯 Planned Objectives（Maybe）
-- [ ] Implement LLM architectures (GPT, LLaMA, Mistral)
-- [ ] Experiment with diffusion models (Stable Diffusion, SDXL)
-- [ ] Develop autonomous AI agents
-- [ ] Build prompt engineering toolkit
+- [ ] Implement Classical architectures (VAE, Flow, Diffusion)
+- [ ] Applied them to some scientific problems 
 
 ![Author: ReL007](https://img.shields.io/badge/author-ReL007-brightgreen)
 ![Email](https://img.shields.io/badge/email-2020302121117%40whu.edu.cn-red)
